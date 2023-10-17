@@ -1,0 +1,10 @@
+#!/bin/bash
+
+Name	Age	City
+Rahul	33	Kolkata
+Shyam	30	Delhi
+Mohan	25	Pune
+Sohan	20	Patna
+Abhi	15	Chapra
+
+
